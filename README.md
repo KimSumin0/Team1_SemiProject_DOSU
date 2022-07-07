@@ -35,7 +35,8 @@ Tools : <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-squ
 + Sales System
 <img width="500" alt="스크린샷 2022-07-06 오후 1 02 52" src="https://user-images.githubusercontent.com/107030993/177465734-a834fb64-63cd-4dde-aad5-2176355ed021.png">
 
-**웹사이트 SNS**<br>
+**SNS Link**<br>
+**메인 페이지에서 이어지는 SNS 계정입니다.　メインページから続くSNSアカウントです。**<br>
 <a href="https://twitter.com/dosu_official"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/dosu.official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
